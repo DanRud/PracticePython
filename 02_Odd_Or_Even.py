@@ -1,3 +1,5 @@
+#02 Odd Or Even
+
 num = int(input('Put a number\n'))
 check = int(input('Put a second number to divide first number by \n'))
 
@@ -18,3 +20,5 @@ if num % check == 0:
     print(f'{num} is divided by {check}')
 else:
     print(f'{num} doesn\'t divide by {check}')
+
+
