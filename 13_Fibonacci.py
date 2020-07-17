@@ -1,4 +1,4 @@
-# Fibonacci 1, 1, 2, 3, 5, 8, 13, 21...
+# Fibonacci 0, 1, 1, 2, 3, 5, 8, 13, 21...
 
 num = int(input('How many Fibonacci numbers you would like to see '))
 
@@ -16,3 +16,5 @@ def fib(num):
 fib(num)
         
         
+
+
